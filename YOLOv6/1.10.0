@@ -1,0 +1,5 @@
+Requirement already satisfied: onnx in c:\users\luis_\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (1.11.0)
+Requirement already satisfied: numpy>=1.16.6 in c:\users\luis_\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from onnx) (1.22.3)
+Requirement already satisfied: protobuf>=3.12.2 in c:\users\luis_\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from onnx) (3.17.3)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\users\luis_\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from onnx) (3.10.0.2)
+Requirement already satisfied: six>=1.9 in c:\users\luis_\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from protobuf>=3.12.2->onnx) (1.15.0)
